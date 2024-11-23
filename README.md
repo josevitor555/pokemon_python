@@ -7,3 +7,5 @@
 ### Tecnologias Utilizadas
 - Python
 - Biblioteca Requests para fazer requisições HTTP
+
+### Este projeto foi realizado durante uma atividade em Python sob a disciplina POO ministrada pelo professor Charleno.
